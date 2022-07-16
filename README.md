@@ -34,7 +34,8 @@
     </nav>
 
 </body>
-</html> ```
+</html>
+```
 
 - HTML package
 - CSS
